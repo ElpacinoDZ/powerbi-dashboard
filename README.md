@@ -43,6 +43,19 @@ Le tableau de bord permet d’analyser :
 ## 📁 Fichiers du projet
 - `*.pbix` : fichier Power BI contenant le tableau de bord
 - `README.md` : documentation du projet
+- Images du Projet :
+
+  Page d'acceuil :
+  [url=https://postimg.cc/K4vq5zJH][img]https://i.postimg.cc/K4vq5zJH/Accueil.png[/img][/url]
+  Demandes de prêt :
+  
+  Performance des agences :
+  
+  Indicateurs client :
+  
+  Liste des clients :
+  
+ 
 
 ---
 
