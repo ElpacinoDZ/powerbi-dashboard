@@ -43,19 +43,28 @@ Le tableau de bord permet d’analyser :
 ## 📁 Fichiers du projet
 - `*.pbix` : fichier Power BI contenant le tableau de bord
 - `README.md` : documentation du projet
-- Images du Projet :
+- Images du Projet --->
 
   Page d'acceuil :
+  
   <img width="1942" height="1107" alt="Accueil" src="https://github.com/user-attachments/assets/0b0e803e-b6e8-4b63-acd1-c52af090f392" />
   Demandes de prêt :
   
+  <img width="1955" height="1094" alt="Demandes de prets" src="https://github.com/user-attachments/assets/c4c9f203-8edc-42b5-bf94-5937edebfd53" />
+
   Performance des agences :
   
+  <img width="1892" height="1107" alt="Performance des agences" src="https://github.com/user-attachments/assets/87a75870-68ea-4832-8584-e34ce395b961" />
+
   Indicateurs client :
   
-  Liste des clients :
+  <img width="1565" height="1092" alt="Indicateurs clients " src="https://github.com/user-attachments/assets/b77dd26d-2a5e-4954-b005-e277fb833958" />
 
+
+  Liste des clients :
   
+  <img width="1394" height="1091" alt="Liste des clients" src="https://github.com/user-attachments/assets/2438d1cf-488d-4a2d-9bf9-64d48eeee001" />
+
  
 
 ---
