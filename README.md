@@ -6,8 +6,47 @@ je me suis mis dans la peau d’un consultant indépendant, dont la mission est 
 
 ## 🎯 Objectif du projet
 
-L’objectif principal est de concevoir un tableau de bord d’aide à la décision à destination
-d’un réseau d’agences bancaires, dans le cadre de l’analyse des accords de prêts immobiliers.
+L’objectif principal est de concevoir un outil d’aide à la décision permettant d’améliorer la qualité, la rapidité et la cohérence des décisions d’accord de prêts immobiliers à l’échelle d’un réseau bancaire
+
+## 🧩 Problématique métier
+
+Les réseaux bancaires doivent traiter un volume important de demandes de prêts immobiliers, 
+avec des critères multiples (profil client, solvabilité, risque, performance agence, historique).
+
+Les décisions sont souvent :
+- longues
+- hétérogènes entre agences
+- difficiles à standardiser
+- peu lisibles pour le pilotage global
+
+➡️ Problème : difficulté à prendre des décisions rapides, cohérentes et pilotables à l’échelle du réseau.
+
+## 💼 Valeur métier / business
+
+Le dashboard permet :
+- d’harmoniser les critères de décision
+- de mieux piloter la performance des agences
+- de réduire les risques liés aux accords de prêts
+- d’améliorer la qualité des décisions
+- d’accélérer le traitement des dossiers
+- d’avoir une vision consolidée réseau
+
+➡️ Outil d’aide à la décision stratégique, pas seulement analytique.
+
+## 👥 Utilisateurs cibles
+
+- Conseillers bancaires
+- Responsables d’agence
+- Analystes risques
+- Direction régionale
+- Direction réseau
+
+Chaque profil utilise le dashboard pour :
+- décider
+- piloter
+- comparer
+- prioriser
+- optimiser
 
 ---
 
