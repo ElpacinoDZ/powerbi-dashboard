@@ -62,14 +62,14 @@ Dans ce projet, les compétences suivantes sont développées :
 - Modélisation des données sans recours aux copier-coller manuels
 - Configuration et partage des tableaux de bord en ligne
 
----
+
 
 ## 🛠 Outils utilisés
 - Power BI Desktop
 - DAX (Data Analysis Expressions)
 - Données du cas pratique OpenClassrooms
 
----
+
 
 ## 📊 Contexte du cas pratique
 Le projet est construit autour d’un cas concret :  
@@ -80,6 +80,9 @@ Le tableau de bord permet d’analyser :
 - Les décisions d’accord ou de refus de prêts
 - Les profils des demandeurs
 - Les indicateurs clés facilitant la prise de décision
+
+
+  
 
 ---
 
